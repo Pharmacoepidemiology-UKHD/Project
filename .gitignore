@@ -1,0 +1,7 @@
+.Rproj.user
+.RData
+.Rhistory
+.Ruserdata
+
+#Ignore all this save in this folder. Data protection issues
+data
